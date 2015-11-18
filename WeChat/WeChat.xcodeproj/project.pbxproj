@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		338D949A1BFC4493008BFF9E /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 338D94991BFC4493008BFF9E /* Person.m */; };
 		BCA2956A1B9449A4000B6EA5 /* NewsCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BCA295691B9449A4000B6EA5 /* NewsCell.m */; };
 		BCA2956C1B944E0C000B6EA5 /* NewsList.plist in Resources */ = {isa = PBXBuildFile; fileRef = BCA2956B1B944E0C000B6EA5 /* NewsList.plist */; };
 		BCA754911B95886B0020A080 /* 10_0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BCA754801B95886B0020A080 /* 10_0.jpg */; };
@@ -228,6 +229,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		338D94981BFC4493008BFF9E /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		338D94991BFC4493008BFF9E /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		BCA295681B9449A4000B6EA5 /* NewsCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsCell.h; sourceTree = "<group>"; };
 		BCA295691B9449A4000B6EA5 /* NewsCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsCell.m; sourceTree = "<group>"; };
 		BCA2956B1B944E0C000B6EA5 /* NewsList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = NewsList.plist; sourceTree = "<group>"; };
@@ -566,6 +569,8 @@
 				BCFDD1881B9042C5009AFD9E /* SettingViewController.m */,
 				BCFDD18A1B9042FD009AFD9E /* NotifationViewController.h */,
 				BCFDD18B1B9042FD009AFD9E /* NotifationViewController.m */,
+				338D94981BFC4493008BFF9E /* Person.h */,
+				338D94991BFC4493008BFF9E /* Person.m */,
 				BCEEA2521B8F68A500E388B7 /* Images.xcassets */,
 				BCEEA2541B8F68A500E388B7 /* LaunchScreen.xib */,
 				BCEEA24B1B8F68A500E388B7 /* Supporting Files */,
@@ -1102,6 +1107,7 @@
 				BCFDD1891B9042C5009AFD9E /* SettingViewController.m in Sources */,
 				BCFDD1761B900EE8009AFD9E /* InfoViewController.m in Sources */,
 				BCFDD18C1B9042FD009AFD9E /* NotifationViewController.m in Sources */,
+				338D949A1BFC4493008BFF9E /* Person.m in Sources */,
 				BCFDD1841B903777009AFD9E /* FaceLookViewController.m in Sources */,
 				BCEEA24E1B8F68A500E388B7 /* main.m in Sources */,
 			);
