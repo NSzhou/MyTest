@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "195EEC51178E4F6B33DA8493FC382509A35D7D5A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AD502EB84272473ED20BFE627917FA5E8CD5315E" : 0,
+    "195EEC51178E4F6B33DA8493FC382509A35D7D5A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EC156BD3-1F32-4BCE-9383-CD5E0B6F4B76",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AD502EB84272473ED20BFE627917FA5E8CD5315E" : "",
+    "195EEC51178E4F6B33DA8493FC382509A35D7D5A" : "MyTest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WeChat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WeChat\/WeChat.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NSzhou\/MyTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "195EEC51178E4F6B33DA8493FC382509A35D7D5A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NSzhou\/Test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD502EB84272473ED20BFE627917FA5E8CD5315E"
+    }
+  ]
+}
