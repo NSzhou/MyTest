@@ -78,7 +78,7 @@
 
 }
 - (void)applicationWillResignActive:(UIApplication *)application {
-
+   //这里的英文注释已经被删除
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
